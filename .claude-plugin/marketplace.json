@@ -1,0 +1,20 @@
+{
+  "name": "superpowers-xs",
+  "description": "Marketplace for the superpowers-xs fork of the Superpowers core skills library",
+  "owner": {
+    "name": "qu4nc0d3r",
+    "email": "qu4nc0d3r@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "superpowers-xs",
+      "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques (superpowers-xs fork)",
+      "version": "6.4.1",
+      "source": "./",
+      "author": {
+        "name": "qu4nc0d3r",
+        "email": "qu4nc0d3r@users.noreply.github.com"
+      }
+    }
+  ]
+}

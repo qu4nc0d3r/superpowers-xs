@@ -1,0 +1,21 @@
+{
+  "name": "superpowers-xs",
+  "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques (superpowers-xs fork)",
+  "version": "6.4.1",
+  "author": {
+    "name": "qu4nc0d3r",
+    "email": "qu4nc0d3r@users.noreply.github.com"
+  },
+  "homepage": "https://github.com/qu4nc0d3r/superpowers-xs",
+  "repository": "https://github.com/qu4nc0d3r/superpowers-xs",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "council-grade",
+    "tdd",
+    "debugging",
+    "collaboration",
+    "best-practices",
+    "workflows"
+  ]
+}
